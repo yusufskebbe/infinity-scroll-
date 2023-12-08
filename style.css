@@ -40,3 +40,15 @@ h1{
 .image-container img{
   width: 100%;
 }
+
+@media (max-width:800px){
+
+  h1{
+    font-size: 30px;
+  }
+
+  .image-container{
+    margin: 10px;
+  }
+
+}
